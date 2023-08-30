@@ -1,3 +1,8 @@
 .bikerz-zone-bg-red {
     background-color: rgba(243, 80, 80, 0.73);
 }
+
+.bikerz-zone-button {
+    background: #E76F51;
+    color: #FFF;
+}
